@@ -11,7 +11,7 @@
 
 ## El desarrollo de software dirigido por modelos (MDD)
 
-![alt text] (https://raw.githubusercontent.com/pedroFernando/wiki-clase01/main/1Tarea.png)
+<img src="https://raw.githubusercontent.com/pedroFernando/wiki-clase01/main/1Tarea.png" alt="MDD" style="height: 400px; width:400px;"/>
 
 El Desarrollo de Software Dirigido por Modelos MDD (por sus siglas en inglés: Model Driven software Development) se ha convertido en un nuevo paradigma de desarrollo software. MDD promete mejorar el proceso de construcción de software basándose en un proceso guiado por modelos y soportado por potentes herramientas. El adjetivo “dirigido” (driven) en MDD, a diferencia de “basado” (based), enfatiza que este paradigma asigna a los modelos un rol central y activo: son al menos tan importantes como el código fuente. Los modelos se van generando desde los más abstractos a los más concretos a través de pasos de transformación y/o refinamientos, hasta llegar al código aplicando una última transformación. La transformación entre modelos constituye el motor de MDD.
 
